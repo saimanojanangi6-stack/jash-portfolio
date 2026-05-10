@@ -1,0 +1,27 @@
+{
+  "name": "my-html-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --port 3000",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saimanojanangi6-stack/saikiran-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/saimanojanangi6-stack/saikiran-portfolio/issues"
+  },
+  "homepage": "https://github.com/saimanojanangi6-stack/saikiran-portfolio#readme",
+  "devDependencies": {
+    "vite": "^8.0.11"
+  }
+}
